@@ -1,7 +1,5 @@
-№ Vim Handbook
+# Vim Handbook
 My shortcuts and notes on vim
-
-## keys
 
 ## Cursor navigation
 
