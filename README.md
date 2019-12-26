@@ -121,3 +121,10 @@ cw is NOT the same as ce. If the cursor is on the last char of a word (or a sing
 - `/\c[search term]` – case insensitive search;
 - `:set ignorecase` or `:set ic` – insensitive by default;
 - `:set smartcase` or `:set noic` – sensitive by default;
+
+## Misc
+
+- `:q` – quit
+- `:q!` – quit without save
+- `:w` – write changes
+- `:wq` or `ZZ` – write changes and quit
