@@ -26,12 +26,12 @@ My shortcuts and notes on vim
 - `$` – end of a line;
 - `^` – first character of a line. Same as `0w`;
 - `{`, `}` – begin and end of a paragraph;
-- `CTRL d`, `CTRL u` – half-screen down or up;
-- `CTRL b`, `CTRL f` – page up/down.
+- `CTRL u`/`CTRL d` – half-screen up/down;
+- `CTRL b`/`CTRL f` – page up/down.
 
 ## Scroll
 
-- `CTRL y`, `CTRL e` – scroll one line up or down;
+- `CTRL y`/`CTRL e` – scroll one line up/down;
 - `zz` – current line at the center of a window;
 - `zb` – current line at the bottom of a window;
 - `zt` – current line at the top of a window;
