@@ -40,8 +40,8 @@ more [here](http://vimdoc.sourceforge.net/htmldoc/scroll.html#scroll-cursor)
 
 ## Macroses
 
-- `q[key to store][actions]q` – record macros
-- `@[key to store]` – play macros
+- `q[macros key][actions]q` – record macros
+- `@[macros key]` – play macros
 
 ## Clipboard
 
