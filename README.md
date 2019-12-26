@@ -1,5 +1,5 @@
-# vim-handbook
-my shortcuts and notes on vim
+№ Vim Handbook
+My shortcuts and notes on vim
 
 ## keys
 
