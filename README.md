@@ -33,7 +33,7 @@ My shortcuts and notes on vim
 
 - `CTRL y`, `CTRL e` – scroll one line up or down;
 - `zz` – current line at the center of a window;
-- `zb` – current line at the end of a window;
+- `zb` – current line at the bottom of a window;
 - `zt` – current line at the top of a window;
 
 more [here](http://vimdoc.sourceforge.net/htmldoc/scroll.html#scroll-cursor)
