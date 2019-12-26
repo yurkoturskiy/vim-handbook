@@ -112,8 +112,8 @@ cw is NOT the same as ce. If the cursor is on the last char of a word (or a sing
 
 ## Replace
 
-- `s/[term to replace]/[new term]/g – replace all terms withing a current line. Remove `g` flag to replace one term;
-- `%s/[term to replace]/[new term] – replace all found terms withing a file;
+- `s/[term to replace]/[new term]/g` – replace all terms withing a current line. Remove `g` flag to replace one term;
+- `%s/[term to replace]/[new term]` – replace all found terms withing a file;
 
 ## Case sensitivity
 
