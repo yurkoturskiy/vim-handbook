@@ -62,6 +62,7 @@ Registers allow you to have multiple clipboards bound on any key.
 - `x` – delete current symbol
 - `r` – replace current symbol
 - `R` – replace many symbols. Replace mode.
+- `J` – join next line to current
 - `>` `<` – indentation
 - `dd` – delete current line
 - `dw` – delete till the start of a next word;
