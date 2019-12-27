@@ -19,6 +19,7 @@ My shortcuts and notes on vim
 - `w` – to the beginning of a next word. `W` – same, but punctuation as a word;
 - `e` – to the end of a word. `E` – same, but punctuation as a word;
 - `b` – to the beginning of a current or previous word. `B` – same, but punctuation as a word;
+- `*` – search forward for the word nearest to the cursor.
 - `%` – switching between paired brackets;
 - `f`, `F` – find a character. Move on a character. A letter case switches the direction;
 - `t`, `T` – till a character. Move before a character. A letter case switches the direction;
