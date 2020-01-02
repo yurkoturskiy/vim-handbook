@@ -72,12 +72,18 @@ Registers allow you to have multiple clipboards bound on any key.
 - `dt[character],`dT[character]` – delete till character
 - `df[character],`dF[character]` – delete including character
 
-## Insert mode
+## Enter insert mode
 
 - `i` – enter before the cursor;
 - `a` – enter after the cursor;
-- `o` – enter from a new line below a current;
-- `O` – enter from a new line above a current;
+- `o` – enter from a new line below the current;
+- `O` – enter from a new line above the current;
+
+## Insert mode
+
+- `CTRL h` – delete the character before the cursor
+- `CTRL w` – delete the word before the cursor
+- `CTRL o` – switches to normal mode for one command
 
 ## Change mode
 
